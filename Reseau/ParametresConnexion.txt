@@ -1,0 +1,2 @@
+STINF08\\SQLEXPRESS:1433
+gestcom
